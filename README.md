@@ -16,3 +16,5 @@ This is show your code status like if you do somechange in the code after open f
 This is used for add new and changes files in your work directory to the git stages area and if we do git add . it add all files and changes in git track the you do ready for commit
 <!--git commit -m "name what you change"-->
 It is the record of changes 
+<!-- git push  -->
+upload local repo content to remote repo it mean we push our changes and files local to github 
