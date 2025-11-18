@@ -13,6 +13,6 @@ With this we can see all files with that hidden also
 <!-- git status -->
 This is show your code status like if you do somechange in the code after open form github when you git status enter they show if you do the change and dont add this they how show you in red modified: file name if you do nothing is that and check staus they show you all is upto date dont need commit..And if you create a new file so you can see untrack file error and with the red colour you see file name..
 <!-- git add file name-->
-This is used for add new and changes files in your work directory to the git stages area 
+This is used for add new and changes files in your work directory to the git stages area and if we do git add . it add all files and changes in git track the you do ready for commit
 <!--git commit -m "name what you change"-->
 It is the record of changes 
